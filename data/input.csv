@@ -1,0 +1,1001 @@
+age,income,education_level,employment_status,marital_status,house_ownership,credit_score,target
+23,74965,High School,Unemployed,Divorced,Mortgage,528,1
+35,89958,Bachelor,Employed,Married,Mortgage,426,1
+73,99333,Master,Employed,Single,Mortgage,624,0
+53,49201,PhD,Employed,Married,Own,664,0
+44,78729,Bachelor,Employed,Single,Own,590,0
+93,79413,Bachelor,Employed,Married,Rent,488,0
+57,62707,Bachelor,Unemployed,Single,Mortgage,693,0
+42,88593,Master,Unemployed,Married,Mortgage,816,0
+71,22894,PhD,Self-employed,Single,Rent,393,1
+33,99528,High School,Self-employed,Divorced,Own,747,0
+24,82802,Master,Self-employed,Single,Rent,577,1
+33,97680,PhD,Unemployed,Divorced,Own,481,0
+20,91998,High School,Employed,Divorced,Own,404,0
+47,91063,Bachelor,Unemployed,Divorced,Rent,599,1
+23,44948,High School,Employed,Married,Rent,659,0
+41,48308,High School,Employed,Single,Mortgage,394,0
+40,23001,High School,Employed,Single,Own,319,0
+51,36161,Bachelor,Employed,Married,Own,647,0
+21,78945,Master,Employed,Divorced,Own,696,0
+73,45805,High School,Unemployed,Divorced,Rent,707,0
+58,97094,Bachelor,Employed,Single,Mortgage,522,0
+81,71471,Bachelor,Employed,Married,Mortgage,412,0
+22,55286,Bachelor,Self-employed,Single,Rent,459,0
+93,46586,High School,Unemployed,Single,Own,522,0
+50,45313,PhD,Unemployed,Married,Rent,608,1
+44,44063,PhD,Self-employed,Divorced,Own,475,0
+90,62859,Bachelor,Employed,Divorced,Mortgage,474,1
+19,82391,PhD,Unemployed,Married,Rent,334,0
+48,49162,High School,Unemployed,Divorced,Own,649,1
+65,26161,High School,Self-employed,Single,Rent,309,1
+35,53832,Master,Unemployed,Divorced,Mortgage,672,1
+81,77241,High School,Employed,Married,Rent,779,1
+50,49254,Bachelor,Unemployed,Single,Own,450,1
+18,49240,PhD,Employed,Divorced,Rent,333,0
+50,68749,Bachelor,Unemployed,Divorced,Own,352,0
+29,63920,High School,Unemployed,Divorced,Rent,628,0
+44,76477,PhD,Employed,Married,Mortgage,353,0
+24,30267,PhD,Self-employed,Divorced,Mortgage,530,0
+41,27201,Master,Self-employed,Divorced,Mortgage,519,1
+41,96093,High School,Employed,Married,Own,702,0
+19,78192,High School,Self-employed,Single,Mortgage,706,0
+46,69560,PhD,Self-employed,Married,Mortgage,642,1
+87,58561,High School,Self-employed,Married,Own,690,0
+24,88487,High School,Self-employed,Divorced,Own,542,0
+66,79529,Bachelor,Employed,Single,Mortgage,418,0
+83,37947,High School,Self-employed,Married,Mortgage,373,0
+70,44038,PhD,Employed,Married,Own,476,1
+54,20645,Bachelor,Unemployed,Single,Own,554,0
+42,83116,Master,Self-employed,Divorced,Rent,412,1
+85,77772,High School,Self-employed,Married,Rent,563,0
+46,65634,High School,Self-employed,Divorced,Own,593,0
+51,42088,Master,Unemployed,Single,Mortgage,805,1
+54,70549,Bachelor,Self-employed,Married,Own,322,1
+53,94465,Bachelor,Unemployed,Divorced,Own,681,1
+69,78802,High School,Self-employed,Married,Own,449,0
+64,80997,PhD,Self-employed,Single,Rent,742,1
+94,91296,Bachelor,Employed,Single,Own,380,1
+75,59453,Master,Self-employed,Divorced,Mortgage,532,1
+18,65811,Master,Unemployed,Divorced,Mortgage,473,1
+42,71799,High School,Unemployed,Divorced,Own,470,0
+18,83716,PhD,Employed,Single,Mortgage,376,0
+36,29261,Master,Self-employed,Married,Rent,764,0
+55,34183,Bachelor,Self-employed,Divorced,Rent,644,0
+48,48006,Bachelor,Employed,Single,Rent,428,0
+53,25942,Master,Self-employed,Divorced,Rent,656,1
+22,40636,Bachelor,Employed,Married,Rent,547,0
+57,59720,PhD,Self-employed,Divorced,Own,355,0
+28,81937,PhD,Self-employed,Single,Rent,675,0
+80,32534,High School,Unemployed,Married,Rent,689,1
+88,68079,Bachelor,Self-employed,Single,Own,843,1
+29,45865,Bachelor,Self-employed,Divorced,Own,412,0
+52,36330,High School,Employed,Single,Rent,684,1
+78,88346,High School,Employed,Single,Own,652,0
+49,33476,Master,Self-employed,Divorced,Mortgage,354,1
+84,96623,High School,Unemployed,Married,Mortgage,527,1
+34,31266,PhD,Unemployed,Single,Mortgage,476,0
+39,65601,High School,Unemployed,Married,Mortgage,428,1
+40,66336,High School,Self-employed,Married,Rent,789,0
+89,63442,PhD,Self-employed,Married,Mortgage,572,0
+21,75442,Bachelor,Unemployed,Single,Rent,405,0
+35,62095,Bachelor,Unemployed,Married,Rent,341,1
+47,75104,Bachelor,Employed,Married,Mortgage,349,1
+66,42862,PhD,Unemployed,Single,Own,339,1
+36,20483,PhD,Unemployed,Married,Mortgage,303,1
+93,93429,PhD,Unemployed,Married,Own,829,0
+53,52541,Master,Employed,Married,Mortgage,415,1
+28,26109,Master,Self-employed,Married,Rent,823,1
+52,26491,Bachelor,Unemployed,Single,Own,348,1
+60,38226,Master,Employed,Divorced,Own,679,1
+44,43813,High School,Unemployed,Married,Mortgage,687,1
+75,22172,Master,Self-employed,Single,Mortgage,592,0
+50,26778,PhD,Unemployed,Divorced,Rent,768,1
+71,79458,High School,Employed,Single,Rent,686,0
+29,52538,High School,Unemployed,Single,Rent,562,0
+67,81380,High School,Unemployed,Single,Own,566,0
+58,22686,PhD,Self-employed,Married,Mortgage,670,0
+19,57286,High School,Unemployed,Married,Mortgage,393,1
+35,50079,Master,Unemployed,Divorced,Mortgage,555,0
+39,76187,PhD,Self-employed,Single,Rent,481,0
+30,75342,Bachelor,Employed,Single,Own,533,0
+47,64797,Master,Employed,Single,Own,436,1
+60,79853,PhD,Employed,Divorced,Rent,768,0
+90,68630,Bachelor,Self-employed,Divorced,Rent,321,0
+67,34608,Bachelor,Unemployed,Married,Mortgage,480,0
+19,32699,Bachelor,Unemployed,Single,Own,541,0
+23,45060,Master,Self-employed,Single,Mortgage,616,1
+44,73329,High School,Employed,Married,Own,529,0
+59,56961,Master,Self-employed,Married,Own,328,1
+38,25214,High School,Employed,Married,Own,662,1
+21,79387,PhD,Self-employed,Divorced,Rent,452,1
+76,62688,High School,Unemployed,Divorced,Rent,715,0
+19,35510,PhD,Employed,Married,Mortgage,823,1
+44,60867,Master,Employed,Divorced,Own,716,0
+36,35566,High School,Employed,Married,Rent,647,1
+73,91212,Master,Unemployed,Single,Own,329,1
+34,58351,PhD,Unemployed,Divorced,Rent,722,1
+27,64432,High School,Self-employed,Divorced,Own,489,1
+46,62115,High School,Employed,Single,Mortgage,520,1
+73,99855,Bachelor,Employed,Married,Rent,421,0
+63,94631,Bachelor,Self-employed,Divorced,Own,675,0
+62,59847,PhD,Employed,Divorced,Rent,618,0
+73,69864,Master,Self-employed,Single,Mortgage,470,0
+59,29374,High School,Unemployed,Single,Rent,446,1
+36,29734,PhD,Self-employed,Single,Own,751,0
+77,99256,PhD,Self-employed,Divorced,Mortgage,690,1
+86,45701,High School,Unemployed,Married,Rent,743,1
+57,42370,Bachelor,Self-employed,Married,Rent,507,0
+89,80767,High School,Unemployed,Single,Own,507,0
+61,25263,PhD,Employed,Married,Rent,813,1
+23,71773,Master,Employed,Divorced,Rent,803,1
+32,44946,High School,Self-employed,Married,Mortgage,474,0
+34,99777,Bachelor,Employed,Single,Rent,779,1
+75,46321,Bachelor,Employed,Single,Mortgage,659,0
+43,45029,Master,Self-employed,Married,Mortgage,673,0
+90,74194,Bachelor,Employed,Single,Mortgage,625,0
+25,56575,Bachelor,Self-employed,Divorced,Mortgage,710,1
+38,41773,Bachelor,Unemployed,Divorced,Rent,631,1
+18,62248,PhD,Employed,Divorced,Own,616,0
+91,32229,High School,Unemployed,Single,Own,731,1
+88,44523,Master,Unemployed,Divorced,Mortgage,683,1
+19,50297,Bachelor,Employed,Single,Own,396,1
+73,22026,Bachelor,Self-employed,Married,Rent,645,0
+29,69290,High School,Employed,Married,Mortgage,790,0
+83,47853,Bachelor,Self-employed,Single,Mortgage,476,1
+38,38749,PhD,Employed,Single,Own,655,0
+20,34871,Bachelor,Employed,Divorced,Mortgage,607,1
+42,69082,Master,Unemployed,Divorced,Own,693,0
+54,95963,PhD,Unemployed,Divorced,Mortgage,569,1
+77,26107,Bachelor,Employed,Married,Mortgage,719,1
+49,70678,Master,Self-employed,Divorced,Own,686,1
+54,57950,High School,Self-employed,Single,Mortgage,439,0
+48,85762,High School,Employed,Divorced,Rent,770,0
+94,84574,High School,Unemployed,Divorced,Own,341,1
+34,53251,Master,Unemployed,Single,Own,453,0
+27,26094,Master,Unemployed,Single,Mortgage,340,1
+87,38753,High School,Unemployed,Divorced,Own,771,0
+78,61479,High School,Self-employed,Divorced,Mortgage,547,0
+49,60484,PhD,Unemployed,Married,Rent,373,0
+37,95989,High School,Self-employed,Single,Own,398,1
+25,68310,High School,Unemployed,Single,Rent,438,0
+93,56849,PhD,Employed,Married,Rent,528,1
+77,47488,PhD,Employed,Divorced,Rent,651,1
+74,53518,Master,Self-employed,Single,Mortgage,550,1
+46,51227,Master,Unemployed,Married,Own,460,0
+59,65557,Master,Employed,Divorced,Own,397,0
+40,42202,PhD,Employed,Divorced,Mortgage,665,1
+43,70028,High School,Self-employed,Single,Rent,688,1
+53,74506,PhD,Employed,Married,Rent,474,0
+36,55048,PhD,Unemployed,Divorced,Rent,742,0
+27,37133,PhD,Employed,Divorced,Own,561,0
+77,38223,PhD,Unemployed,Married,Rent,630,1
+59,22729,Master,Employed,Single,Rent,315,0
+74,55351,High School,Employed,Single,Rent,577,0
+20,20747,Master,Self-employed,Divorced,Rent,794,1
+63,83573,PhD,Employed,Divorced,Own,505,1
+21,48158,Master,Employed,Divorced,Mortgage,458,0
+82,91104,Bachelor,Self-employed,Divorced,Own,741,1
+51,83461,Bachelor,Employed,Married,Mortgage,685,0
+51,36825,Bachelor,Self-employed,Married,Rent,672,1
+67,94782,Master,Employed,Married,Rent,742,1
+81,24821,Master,Unemployed,Married,Mortgage,532,0
+57,29692,Bachelor,Unemployed,Divorced,Mortgage,331,0
+44,23584,PhD,Employed,Single,Own,302,1
+90,70292,Master,Employed,Single,Mortgage,534,0
+83,95942,High School,Employed,Single,Own,743,0
+39,33567,Bachelor,Self-employed,Single,Mortgage,595,1
+29,43106,High School,Unemployed,Married,Rent,475,1
+82,60035,High School,Employed,Divorced,Rent,529,1
+90,59425,Master,Employed,Married,Rent,314,0
+35,82957,PhD,Unemployed,Married,Mortgage,703,1
+19,43454,PhD,Self-employed,Single,Own,680,1
+53,25988,Master,Employed,Single,Mortgage,796,1
+30,92069,Master,Employed,Married,Mortgage,784,0
+58,39825,High School,Employed,Married,Rent,702,0
+65,76578,Master,Employed,Single,Rent,728,0
+79,51288,Master,Self-employed,Divorced,Mortgage,443,1
+89,91287,Master,Self-employed,Divorced,Rent,472,0
+18,95286,PhD,Self-employed,Single,Rent,491,1
+86,92586,PhD,Employed,Married,Mortgage,443,1
+64,34111,PhD,Employed,Single,Mortgage,370,0
+37,61110,Master,Unemployed,Married,Own,577,1
+68,26299,PhD,Employed,Divorced,Own,568,1
+71,44299,PhD,Employed,Single,Mortgage,840,1
+62,59251,High School,Self-employed,Divorced,Mortgage,645,1
+75,34578,High School,Self-employed,Married,Rent,559,1
+85,35482,Bachelor,Unemployed,Divorced,Own,478,0
+52,54081,High School,Self-employed,Divorced,Mortgage,434,1
+47,35510,PhD,Self-employed,Divorced,Rent,708,0
+38,71286,Master,Self-employed,Divorced,Own,828,0
+40,22985,Master,Self-employed,Single,Own,325,1
+73,50589,PhD,Unemployed,Divorced,Mortgage,803,1
+27,71167,Master,Self-employed,Married,Own,347,0
+19,35881,Master,Employed,Married,Rent,654,0
+50,57706,Master,Employed,Divorced,Rent,507,1
+67,73294,High School,Unemployed,Divorced,Own,681,0
+81,63292,PhD,Self-employed,Married,Rent,418,1
+46,63935,High School,Unemployed,Divorced,Mortgage,726,1
+51,90866,Master,Unemployed,Divorced,Mortgage,379,0
+28,24603,Bachelor,Employed,Married,Own,530,1
+36,84221,PhD,Employed,Married,Mortgage,447,0
+46,76941,Master,Self-employed,Married,Rent,381,1
+57,53351,Master,Self-employed,Single,Rent,553,0
+26,90100,Master,Unemployed,Divorced,Rent,462,1
+43,65560,High School,Employed,Divorced,Own,776,1
+72,64229,Master,Employed,Divorced,Own,750,0
+77,24277,PhD,Unemployed,Single,Own,634,0
+64,90314,PhD,Self-employed,Single,Own,683,0
+34,49849,Master,Self-employed,Divorced,Mortgage,701,1
+34,92258,PhD,Unemployed,Single,Mortgage,345,0
+47,22749,Master,Unemployed,Divorced,Own,640,1
+93,74041,High School,Unemployed,Married,Own,421,0
+49,44341,Master,Employed,Divorced,Rent,347,1
+29,94183,PhD,Self-employed,Married,Own,766,0
+27,35715,Master,Employed,Married,Rent,432,1
+25,83463,Master,Employed,Married,Rent,794,0
+87,34313,Bachelor,Unemployed,Divorced,Own,489,1
+20,78278,Master,Employed,Divorced,Rent,405,0
+73,81851,Master,Employed,Divorced,Own,785,1
+57,91100,Bachelor,Self-employed,Single,Mortgage,559,0
+26,23976,PhD,Self-employed,Divorced,Mortgage,581,0
+49,90461,Bachelor,Self-employed,Single,Rent,438,0
+78,48046,Master,Self-employed,Divorced,Mortgage,682,0
+29,97358,Bachelor,Employed,Divorced,Rent,377,1
+49,99782,Master,Self-employed,Single,Own,550,0
+85,91889,High School,Self-employed,Married,Mortgage,464,0
+45,48632,Master,Unemployed,Married,Mortgage,799,1
+26,97493,High School,Employed,Divorced,Own,426,0
+36,34020,Master,Employed,Single,Rent,372,0
+87,83227,Master,Employed,Married,Rent,459,0
+24,60500,Bachelor,Self-employed,Divorced,Own,398,1
+43,40396,High School,Employed,Divorced,Mortgage,395,0
+36,94909,PhD,Self-employed,Divorced,Mortgage,355,0
+54,57227,Master,Self-employed,Married,Rent,634,1
+89,56101,High School,Unemployed,Married,Mortgage,484,1
+53,93221,PhD,Unemployed,Single,Own,591,0
+25,26255,PhD,Employed,Married,Mortgage,722,1
+43,72982,Master,Employed,Single,Own,769,1
+77,85591,High School,Unemployed,Married,Rent,318,1
+32,56463,PhD,Unemployed,Married,Mortgage,836,0
+20,23137,Bachelor,Unemployed,Married,Rent,453,0
+43,63248,Master,Self-employed,Married,Rent,527,0
+29,87516,High School,Unemployed,Divorced,Rent,565,0
+87,28352,High School,Self-employed,Single,Rent,433,0
+79,82815,PhD,Self-employed,Divorced,Rent,610,0
+65,84266,Master,Unemployed,Single,Mortgage,697,0
+49,61496,High School,Self-employed,Married,Mortgage,705,1
+31,50010,High School,Unemployed,Single,Rent,835,0
+28,48619,Master,Employed,Single,Own,757,1
+51,40661,High School,Unemployed,Single,Rent,413,1
+39,42058,Master,Unemployed,Married,Mortgage,470,0
+37,36998,High School,Employed,Married,Rent,559,0
+32,81068,High School,Self-employed,Single,Own,646,1
+85,61246,Bachelor,Unemployed,Divorced,Mortgage,601,0
+52,25323,Bachelor,Self-employed,Single,Rent,660,0
+46,95263,Bachelor,Unemployed,Married,Own,760,1
+33,96112,High School,Employed,Divorced,Mortgage,524,0
+66,45520,High School,Self-employed,Divorced,Mortgage,611,0
+62,31286,Master,Self-employed,Single,Rent,508,1
+54,23296,Bachelor,Self-employed,Married,Mortgage,300,1
+77,32812,High School,Employed,Divorced,Rent,769,0
+28,97168,High School,Employed,Single,Rent,826,1
+76,81559,High School,Unemployed,Married,Mortgage,658,0
+80,58219,High School,Unemployed,Divorced,Own,363,0
+83,96769,High School,Self-employed,Single,Own,498,0
+35,96226,High School,Employed,Divorced,Rent,681,1
+81,69725,Bachelor,Self-employed,Married,Rent,376,0
+55,96792,Bachelor,Self-employed,Divorced,Rent,387,1
+37,58140,High School,Employed,Single,Rent,645,1
+66,97218,Master,Employed,Divorced,Own,604,1
+24,53994,High School,Employed,Married,Mortgage,839,0
+51,84160,Bachelor,Employed,Married,Rent,840,1
+74,20267,Bachelor,Self-employed,Single,Mortgage,680,1
+77,97114,High School,Unemployed,Single,Own,494,0
+44,60689,Master,Employed,Single,Mortgage,603,1
+33,29524,PhD,Unemployed,Married,Own,476,0
+78,63042,Bachelor,Self-employed,Divorced,Own,326,0
+32,55299,Master,Employed,Married,Own,671,0
+19,48278,Bachelor,Self-employed,Married,Own,435,0
+55,27177,Bachelor,Self-employed,Single,Own,517,0
+23,35276,PhD,Self-employed,Married,Own,731,0
+29,99970,Master,Unemployed,Single,Rent,742,1
+19,73874,Bachelor,Employed,Married,Rent,625,1
+87,69292,High School,Unemployed,Single,Own,818,0
+27,63450,Master,Employed,Single,Rent,630,0
+52,39606,Master,Employed,Married,Mortgage,301,0
+91,41101,Master,Unemployed,Married,Rent,411,1
+92,98231,Bachelor,Employed,Married,Own,399,0
+38,54923,Bachelor,Unemployed,Divorced,Own,769,0
+72,44693,Master,Employed,Divorced,Rent,364,0
+27,87194,High School,Self-employed,Divorced,Own,402,1
+85,95190,Master,Self-employed,Single,Mortgage,848,1
+65,44846,Bachelor,Self-employed,Single,Rent,547,0
+79,27860,PhD,Employed,Married,Rent,607,1
+77,30465,PhD,Self-employed,Divorced,Mortgage,476,1
+56,83851,Master,Employed,Divorced,Mortgage,499,0
+28,70156,PhD,Unemployed,Divorced,Rent,755,0
+45,88408,Bachelor,Unemployed,Single,Rent,599,1
+68,64922,Bachelor,Unemployed,Single,Own,571,1
+88,80707,PhD,Employed,Divorced,Rent,458,1
+43,73416,PhD,Employed,Divorced,Rent,790,1
+59,40878,Master,Self-employed,Single,Rent,411,1
+37,86294,PhD,Employed,Married,Own,773,1
+64,63972,High School,Self-employed,Divorced,Own,551,0
+39,94813,Master,Unemployed,Married,Mortgage,331,0
+57,70706,Master,Unemployed,Divorced,Mortgage,303,0
+27,75715,Master,Employed,Single,Mortgage,818,1
+43,90998,PhD,Employed,Single,Own,373,1
+73,84451,Bachelor,Employed,Single,Mortgage,511,1
+87,91309,Bachelor,Employed,Single,Rent,494,1
+42,57605,Master,Self-employed,Married,Rent,652,1
+62,69250,High School,Self-employed,Divorced,Mortgage,539,1
+63,99412,Bachelor,Employed,Married,Own,775,0
+76,66458,PhD,Employed,Single,Rent,779,0
+78,25168,Master,Unemployed,Married,Rent,720,0
+88,23903,Bachelor,Unemployed,Single,Mortgage,541,0
+74,76270,High School,Self-employed,Married,Own,530,0
+20,49511,PhD,Self-employed,Divorced,Mortgage,345,0
+94,48226,Master,Self-employed,Single,Own,467,0
+64,96188,Master,Self-employed,Married,Mortgage,650,1
+76,28843,High School,Employed,Married,Mortgage,425,0
+94,64221,Bachelor,Unemployed,Divorced,Rent,416,1
+80,64091,Master,Unemployed,Divorced,Mortgage,612,0
+32,88545,Master,Employed,Divorced,Mortgage,824,1
+86,55689,Master,Unemployed,Single,Rent,310,0
+32,96217,High School,Self-employed,Single,Mortgage,714,1
+82,26954,PhD,Employed,Married,Own,406,0
+54,89839,PhD,Employed,Divorced,Own,428,0
+94,40276,PhD,Self-employed,Single,Rent,746,0
+73,85016,High School,Unemployed,Married,Own,373,0
+44,23671,High School,Employed,Divorced,Mortgage,386,0
+63,65748,High School,Self-employed,Married,Mortgage,724,0
+94,22172,PhD,Self-employed,Single,Rent,483,1
+74,29214,High School,Self-employed,Married,Mortgage,435,1
+30,50734,High School,Unemployed,Married,Mortgage,715,0
+51,40706,PhD,Self-employed,Married,Own,509,1
+28,24529,PhD,Unemployed,Divorced,Mortgage,650,0
+88,45393,Master,Unemployed,Married,Own,671,1
+46,24626,PhD,Employed,Married,Own,475,1
+70,42930,Bachelor,Employed,Married,Rent,839,1
+28,93208,High School,Self-employed,Divorced,Own,428,1
+23,24003,Bachelor,Unemployed,Single,Rent,714,1
+94,59586,High School,Self-employed,Divorced,Mortgage,821,0
+79,68752,PhD,Unemployed,Married,Rent,614,0
+83,77576,Master,Self-employed,Married,Mortgage,354,1
+61,27734,Bachelor,Employed,Divorced,Mortgage,461,0
+50,61699,Bachelor,Unemployed,Single,Mortgage,580,0
+43,53852,PhD,Employed,Married,Rent,525,0
+86,98955,Bachelor,Self-employed,Single,Mortgage,834,1
+93,61331,High School,Employed,Divorced,Own,322,0
+74,34779,Bachelor,Self-employed,Divorced,Rent,576,1
+63,97971,High School,Self-employed,Married,Rent,774,0
+56,58130,Master,Employed,Married,Mortgage,341,1
+70,69483,PhD,Employed,Single,Rent,496,0
+41,84634,Master,Unemployed,Married,Mortgage,374,1
+38,94694,PhD,Self-employed,Married,Own,808,1
+56,37258,High School,Self-employed,Divorced,Mortgage,544,1
+44,67165,Master,Unemployed,Divorced,Rent,731,1
+91,36343,Bachelor,Unemployed,Divorced,Mortgage,446,0
+65,59428,Master,Unemployed,Married,Mortgage,631,0
+40,98078,PhD,Unemployed,Single,Mortgage,657,1
+60,97815,PhD,Unemployed,Divorced,Own,378,0
+85,82744,PhD,Employed,Single,Own,714,1
+25,20584,PhD,Employed,Divorced,Mortgage,478,1
+24,57210,PhD,Self-employed,Divorced,Mortgage,583,1
+56,81217,PhD,Self-employed,Married,Own,634,0
+28,24824,PhD,Employed,Single,Mortgage,774,1
+45,44557,Bachelor,Self-employed,Married,Own,615,1
+62,34613,Master,Self-employed,Single,Own,837,0
+51,97111,High School,Self-employed,Divorced,Mortgage,501,1
+77,29729,PhD,Self-employed,Single,Rent,417,0
+30,37380,High School,Employed,Divorced,Own,622,1
+53,55704,High School,Self-employed,Married,Own,832,0
+80,79736,High School,Self-employed,Divorced,Mortgage,764,0
+45,99375,Master,Unemployed,Divorced,Own,487,1
+23,97429,PhD,Employed,Single,Own,301,0
+63,29317,Master,Employed,Divorced,Rent,737,0
+58,51556,PhD,Self-employed,Single,Own,663,1
+67,31391,Bachelor,Unemployed,Single,Own,752,1
+57,57857,Master,Unemployed,Single,Mortgage,467,1
+50,94954,PhD,Self-employed,Married,Rent,695,1
+32,48009,PhD,Employed,Divorced,Own,723,1
+77,75319,Bachelor,Employed,Divorced,Rent,459,0
+79,65653,High School,Unemployed,Divorced,Mortgage,647,0
+81,31530,Master,Self-employed,Single,Own,565,0
+58,52079,PhD,Unemployed,Married,Rent,523,0
+54,33639,PhD,Self-employed,Divorced,Mortgage,792,0
+66,96409,PhD,Unemployed,Divorced,Own,704,0
+77,65977,High School,Self-employed,Divorced,Own,521,0
+80,65599,Bachelor,Unemployed,Divorced,Own,574,0
+79,74566,High School,Employed,Married,Mortgage,727,1
+49,27159,Bachelor,Unemployed,Divorced,Mortgage,654,1
+65,65414,Master,Unemployed,Married,Own,487,0
+23,69181,High School,Self-employed,Married,Own,446,0
+49,57857,Master,Employed,Single,Own,391,1
+20,82411,High School,Unemployed,Divorced,Own,758,0
+51,61200,High School,Self-employed,Single,Own,569,0
+22,25373,Master,Unemployed,Divorced,Own,829,0
+58,55003,Master,Unemployed,Married,Mortgage,600,1
+18,85263,Bachelor,Self-employed,Divorced,Rent,573,1
+78,72476,High School,Unemployed,Single,Own,847,0
+38,97004,High School,Self-employed,Single,Mortgage,730,1
+76,61407,Master,Employed,Divorced,Own,327,0
+57,40058,Master,Employed,Single,Rent,677,0
+85,65286,High School,Unemployed,Single,Mortgage,427,0
+72,42590,High School,Unemployed,Married,Mortgage,847,0
+79,91426,PhD,Employed,Married,Rent,695,1
+65,34674,PhD,Unemployed,Single,Own,602,1
+94,65327,High School,Self-employed,Divorced,Mortgage,718,0
+75,38724,PhD,Employed,Married,Rent,646,1
+43,33859,Master,Self-employed,Married,Own,516,1
+30,89500,Master,Unemployed,Divorced,Own,653,1
+88,83061,PhD,Unemployed,Divorced,Mortgage,552,1
+48,63495,Bachelor,Self-employed,Single,Own,782,1
+90,78850,Bachelor,Unemployed,Single,Own,415,0
+22,24691,PhD,Employed,Divorced,Rent,337,0
+51,55324,Bachelor,Self-employed,Single,Own,639,1
+24,84260,Bachelor,Employed,Divorced,Rent,396,0
+83,84510,Bachelor,Employed,Married,Own,483,1
+51,27362,Master,Employed,Married,Rent,843,1
+19,45510,PhD,Self-employed,Divorced,Mortgage,830,0
+92,65130,Bachelor,Self-employed,Married,Own,380,1
+65,32367,Master,Unemployed,Divorced,Rent,760,0
+71,29830,High School,Unemployed,Married,Own,515,0
+63,73377,Master,Self-employed,Married,Own,598,0
+84,57511,PhD,Employed,Divorced,Own,640,0
+29,83970,Bachelor,Employed,Divorced,Mortgage,634,0
+93,27799,High School,Unemployed,Divorced,Own,464,1
+30,33478,Bachelor,Employed,Single,Own,447,0
+53,27842,Master,Employed,Single,Rent,803,1
+52,76599,Bachelor,Unemployed,Divorced,Own,333,0
+70,33342,Bachelor,Employed,Married,Own,512,0
+24,32368,PhD,Self-employed,Married,Rent,696,1
+27,65743,PhD,Self-employed,Married,Mortgage,380,0
+65,82111,Bachelor,Self-employed,Divorced,Rent,627,1
+35,43316,PhD,Self-employed,Married,Mortgage,326,1
+65,32002,PhD,Employed,Divorced,Mortgage,644,0
+20,92782,PhD,Unemployed,Married,Own,529,1
+24,89708,Bachelor,Unemployed,Divorced,Mortgage,805,1
+69,62098,Master,Unemployed,Divorced,Own,567,1
+22,53370,Master,Unemployed,Divorced,Own,779,0
+31,79147,Bachelor,Self-employed,Married,Rent,686,1
+68,63434,High School,Self-employed,Single,Own,320,0
+25,41503,Master,Employed,Married,Own,805,0
+64,53109,High School,Self-employed,Married,Own,696,1
+55,75682,High School,Unemployed,Married,Rent,546,0
+64,80946,Bachelor,Employed,Single,Mortgage,561,1
+75,92506,PhD,Self-employed,Married,Mortgage,443,0
+94,54636,PhD,Unemployed,Married,Mortgage,446,1
+76,39450,Master,Unemployed,Married,Rent,483,1
+41,95653,Master,Unemployed,Single,Mortgage,609,0
+81,93239,Bachelor,Self-employed,Divorced,Rent,728,1
+67,57121,Bachelor,Employed,Single,Mortgage,543,1
+59,75611,Bachelor,Employed,Married,Rent,560,1
+46,82946,Master,Self-employed,Married,Own,402,0
+38,48395,PhD,Employed,Divorced,Rent,340,1
+21,33017,Master,Employed,Divorced,Mortgage,748,1
+43,34838,High School,Employed,Married,Mortgage,696,0
+42,63976,High School,Unemployed,Divorced,Mortgage,534,0
+47,40392,Bachelor,Unemployed,Single,Mortgage,309,1
+43,52675,Bachelor,Unemployed,Single,Rent,745,0
+71,89997,Bachelor,Unemployed,Married,Mortgage,445,0
+66,47798,High School,Self-employed,Single,Mortgage,705,1
+25,51031,Master,Employed,Single,Own,337,0
+84,34200,PhD,Unemployed,Married,Mortgage,324,0
+68,38157,High School,Employed,Divorced,Rent,307,1
+87,54297,High School,Self-employed,Divorced,Mortgage,447,0
+60,75150,Bachelor,Self-employed,Divorced,Rent,337,1
+65,77321,Bachelor,Self-employed,Married,Rent,678,0
+49,41582,Bachelor,Self-employed,Married,Mortgage,774,1
+19,36699,PhD,Self-employed,Single,Rent,561,0
+90,78531,Master,Employed,Divorced,Mortgage,596,1
+27,65538,High School,Unemployed,Single,Rent,420,0
+54,47238,PhD,Self-employed,Divorced,Mortgage,806,1
+83,20520,PhD,Unemployed,Married,Rent,485,1
+36,44023,Bachelor,Unemployed,Divorced,Rent,508,0
+91,96489,High School,Self-employed,Married,Mortgage,708,0
+53,65618,Master,Unemployed,Single,Rent,725,1
+73,80696,Master,Employed,Divorced,Mortgage,321,0
+18,84687,High School,Self-employed,Single,Mortgage,607,0
+88,84086,High School,Unemployed,Single,Mortgage,634,0
+47,51345,High School,Employed,Married,Mortgage,685,0
+28,35643,Master,Unemployed,Single,Mortgage,738,0
+40,25300,PhD,Employed,Single,Mortgage,628,1
+50,63904,Master,Self-employed,Divorced,Rent,811,0
+43,69479,High School,Self-employed,Divorced,Own,672,1
+42,86258,PhD,Unemployed,Married,Own,475,1
+63,32994,Bachelor,Self-employed,Divorced,Own,362,0
+56,76451,Master,Employed,Married,Rent,493,1
+59,60693,PhD,Self-employed,Single,Mortgage,324,1
+21,22731,Master,Employed,Divorced,Mortgage,781,1
+79,87694,Bachelor,Self-employed,Married,Own,718,0
+22,84393,PhD,Unemployed,Single,Mortgage,528,1
+67,57631,High School,Employed,Single,Rent,379,0
+52,20624,PhD,Self-employed,Married,Rent,820,0
+69,21197,Master,Self-employed,Married,Rent,591,0
+57,46498,High School,Employed,Divorced,Mortgage,781,1
+82,86784,PhD,Employed,Single,Mortgage,575,0
+85,78404,PhD,Employed,Divorced,Mortgage,314,1
+41,50092,Master,Employed,Single,Rent,758,0
+25,58111,High School,Employed,Single,Rent,418,1
+50,85241,High School,Employed,Single,Mortgage,483,1
+52,28342,PhD,Employed,Married,Own,354,1
+59,67234,PhD,Employed,Married,Mortgage,797,1
+72,34827,PhD,Employed,Married,Rent,640,1
+79,67258,PhD,Self-employed,Divorced,Own,701,0
+52,43537,Master,Employed,Married,Mortgage,555,1
+73,91974,PhD,Unemployed,Divorced,Mortgage,464,0
+77,62861,Bachelor,Self-employed,Single,Mortgage,474,1
+58,63532,Master,Self-employed,Married,Own,321,0
+21,83057,PhD,Unemployed,Divorced,Mortgage,526,0
+66,90711,High School,Unemployed,Married,Mortgage,829,0
+64,55190,Bachelor,Unemployed,Single,Mortgage,666,0
+58,30810,High School,Employed,Single,Rent,695,1
+71,58169,PhD,Employed,Divorced,Own,740,0
+92,45656,Master,Unemployed,Single,Mortgage,377,0
+61,42556,High School,Unemployed,Single,Mortgage,438,0
+24,34555,High School,Unemployed,Married,Mortgage,530,0
+35,41641,Bachelor,Employed,Divorced,Mortgage,460,0
+43,48149,High School,Employed,Married,Own,448,1
+55,28564,Master,Unemployed,Divorced,Mortgage,717,1
+23,93721,Master,Unemployed,Married,Own,401,1
+42,39276,Master,Employed,Married,Rent,530,1
+84,80735,High School,Unemployed,Divorced,Mortgage,338,1
+34,82653,High School,Employed,Married,Rent,521,1
+88,74229,PhD,Employed,Single,Rent,746,1
+62,60607,PhD,Employed,Divorced,Mortgage,637,0
+91,69686,High School,Unemployed,Married,Rent,460,0
+94,57642,High School,Unemployed,Married,Own,601,0
+29,27102,High School,Employed,Divorced,Own,823,0
+39,80034,PhD,Self-employed,Married,Mortgage,687,0
+19,93683,PhD,Unemployed,Single,Mortgage,421,0
+56,38955,High School,Unemployed,Divorced,Rent,744,1
+89,51148,High School,Unemployed,Divorced,Rent,771,1
+19,90934,Bachelor,Employed,Divorced,Mortgage,413,0
+59,32270,Master,Employed,Married,Rent,814,1
+80,62684,PhD,Unemployed,Married,Own,456,0
+55,55509,PhD,Unemployed,Married,Own,338,1
+70,55469,PhD,Unemployed,Single,Own,462,0
+65,51261,High School,Self-employed,Married,Own,647,1
+40,58877,High School,Unemployed,Single,Mortgage,643,1
+39,97290,PhD,Self-employed,Single,Rent,667,1
+30,52802,Master,Self-employed,Married,Rent,580,0
+86,52950,Master,Unemployed,Divorced,Mortgage,435,0
+36,91790,PhD,Employed,Married,Rent,749,0
+76,38433,PhD,Self-employed,Married,Mortgage,498,1
+55,69646,Master,Employed,Married,Own,763,1
+77,84410,High School,Employed,Married,Own,834,0
+54,86414,Master,Employed,Divorced,Own,435,0
+62,37423,PhD,Self-employed,Married,Rent,478,1
+57,81817,High School,Self-employed,Single,Mortgage,698,0
+78,88875,Master,Employed,Divorced,Rent,700,0
+77,31935,Bachelor,Unemployed,Married,Own,314,1
+57,57887,PhD,Employed,Divorced,Mortgage,559,1
+92,23821,Bachelor,Employed,Married,Own,321,1
+88,87020,Master,Employed,Divorced,Mortgage,427,1
+31,65754,Bachelor,Employed,Married,Own,381,1
+27,81949,Bachelor,Employed,Single,Mortgage,654,0
+42,68724,Bachelor,Self-employed,Married,Rent,382,0
+51,76211,High School,Self-employed,Married,Own,505,1
+85,52415,Bachelor,Employed,Married,Mortgage,464,0
+70,82996,PhD,Unemployed,Married,Rent,526,0
+85,69194,Master,Employed,Single,Rent,379,0
+77,60416,PhD,Employed,Married,Own,356,0
+59,36689,Bachelor,Self-employed,Married,Own,482,1
+72,97386,Bachelor,Self-employed,Single,Mortgage,370,0
+35,66290,High School,Self-employed,Divorced,Own,378,0
+76,53573,Master,Self-employed,Single,Mortgage,758,0
+46,81309,High School,Self-employed,Single,Mortgage,566,1
+43,48807,Bachelor,Self-employed,Married,Rent,750,1
+57,25808,High School,Unemployed,Single,Mortgage,386,0
+57,77378,Master,Unemployed,Divorced,Own,698,1
+36,34951,Bachelor,Employed,Single,Rent,435,1
+90,68863,PhD,Self-employed,Single,Own,761,0
+51,91963,PhD,Employed,Married,Rent,714,1
+85,92742,Master,Employed,Married,Own,654,1
+41,65071,High School,Self-employed,Married,Mortgage,846,1
+49,96071,Bachelor,Employed,Single,Mortgage,700,0
+74,37781,Bachelor,Self-employed,Single,Mortgage,809,1
+35,74375,Master,Employed,Divorced,Mortgage,352,1
+61,83553,PhD,Self-employed,Single,Own,801,1
+82,65430,Bachelor,Unemployed,Divorced,Rent,516,1
+92,45514,PhD,Self-employed,Single,Own,816,1
+66,79879,High School,Self-employed,Married,Mortgage,539,1
+57,66614,Master,Self-employed,Married,Own,398,1
+27,70162,High School,Self-employed,Single,Mortgage,627,0
+22,28976,Master,Self-employed,Married,Own,631,0
+92,87958,Bachelor,Employed,Single,Rent,822,1
+55,53030,PhD,Unemployed,Divorced,Mortgage,479,1
+94,33320,PhD,Unemployed,Single,Mortgage,699,0
+46,58256,PhD,Self-employed,Divorced,Own,664,0
+64,76192,High School,Unemployed,Married,Mortgage,536,0
+57,33613,PhD,Employed,Divorced,Rent,711,1
+59,22101,High School,Unemployed,Single,Own,692,1
+23,68793,Bachelor,Unemployed,Married,Mortgage,587,0
+41,56688,Master,Self-employed,Married,Own,531,0
+84,24921,High School,Employed,Divorced,Rent,657,1
+71,73782,PhD,Unemployed,Divorced,Mortgage,547,1
+61,54690,High School,Employed,Married,Own,690,1
+59,76768,Bachelor,Unemployed,Divorced,Rent,696,1
+33,85878,PhD,Self-employed,Divorced,Own,649,1
+61,28422,PhD,Employed,Single,Own,569,1
+39,28606,Bachelor,Self-employed,Married,Rent,767,1
+48,53499,Master,Employed,Divorced,Own,423,0
+78,47329,Bachelor,Unemployed,Divorced,Mortgage,339,1
+68,52675,Master,Employed,Divorced,Mortgage,790,0
+33,98827,Bachelor,Employed,Single,Mortgage,329,0
+65,51995,PhD,Unemployed,Divorced,Own,563,1
+46,61815,PhD,Self-employed,Married,Mortgage,538,1
+94,37619,PhD,Unemployed,Divorced,Own,560,0
+47,25303,High School,Unemployed,Married,Mortgage,735,0
+77,94250,Bachelor,Employed,Married,Rent,685,1
+24,33933,Bachelor,Employed,Single,Own,429,1
+47,78673,High School,Employed,Single,Rent,570,1
+22,68634,Master,Unemployed,Single,Own,388,0
+76,64807,High School,Employed,Divorced,Rent,492,0
+84,29656,Master,Unemployed,Single,Own,617,0
+78,85283,Bachelor,Self-employed,Divorced,Mortgage,742,1
+71,52153,Master,Self-employed,Divorced,Mortgage,371,1
+18,87363,High School,Self-employed,Divorced,Rent,838,1
+52,85588,PhD,Employed,Married,Own,661,0
+81,76299,Bachelor,Self-employed,Married,Mortgage,536,0
+90,83682,High School,Employed,Married,Own,847,1
+60,41535,Bachelor,Self-employed,Divorced,Mortgage,644,1
+80,71835,Master,Employed,Divorced,Own,665,1
+64,92212,PhD,Self-employed,Married,Mortgage,494,1
+44,77293,PhD,Self-employed,Single,Own,538,0
+20,28092,Bachelor,Unemployed,Married,Mortgage,722,0
+27,84218,Master,Self-employed,Divorced,Mortgage,668,1
+71,23995,Master,Unemployed,Married,Rent,656,0
+48,35891,Master,Unemployed,Single,Own,474,1
+79,64553,PhD,Employed,Single,Rent,416,0
+93,35118,High School,Unemployed,Single,Own,571,1
+58,24849,PhD,Self-employed,Divorced,Rent,830,1
+80,80906,Master,Employed,Married,Rent,727,0
+62,49041,Bachelor,Self-employed,Married,Own,699,1
+47,94046,High School,Unemployed,Married,Own,454,0
+68,93493,Bachelor,Employed,Single,Own,527,1
+64,43081,Master,Employed,Married,Own,824,1
+40,84468,Bachelor,Employed,Single,Own,722,0
+47,54150,Master,Self-employed,Married,Mortgage,595,0
+28,84769,PhD,Self-employed,Divorced,Own,767,0
+31,38117,High School,Employed,Divorced,Mortgage,658,0
+83,59033,Master,Self-employed,Single,Mortgage,643,1
+58,98732,PhD,Self-employed,Divorced,Own,412,1
+68,62289,PhD,Self-employed,Single,Mortgage,487,0
+82,45149,High School,Self-employed,Single,Mortgage,799,0
+67,73320,PhD,Unemployed,Single,Mortgage,821,0
+59,68573,PhD,Unemployed,Married,Mortgage,411,0
+49,63033,Bachelor,Employed,Divorced,Own,687,0
+20,46836,High School,Self-employed,Divorced,Rent,315,1
+77,83637,High School,Unemployed,Divorced,Own,770,1
+51,59781,Bachelor,Unemployed,Divorced,Mortgage,518,0
+73,21103,PhD,Unemployed,Single,Rent,674,0
+34,38485,Master,Employed,Single,Own,545,1
+21,38273,High School,Employed,Married,Own,764,0
+29,93121,PhD,Unemployed,Single,Own,410,1
+91,33851,High School,Self-employed,Divorced,Rent,776,0
+83,52606,High School,Unemployed,Single,Mortgage,814,1
+76,52181,Bachelor,Unemployed,Married,Own,539,0
+81,25126,High School,Unemployed,Single,Rent,649,1
+29,38216,Bachelor,Self-employed,Married,Rent,692,1
+73,26502,PhD,Unemployed,Single,Mortgage,674,0
+72,26770,Master,Self-employed,Divorced,Rent,604,0
+38,91648,Master,Employed,Married,Own,728,0
+68,65336,Bachelor,Self-employed,Single,Rent,602,0
+83,89033,Bachelor,Employed,Single,Own,342,0
+19,79490,PhD,Unemployed,Married,Own,583,1
+88,71766,PhD,Employed,Divorced,Rent,435,1
+65,94205,Master,Unemployed,Married,Own,820,0
+92,30892,Bachelor,Self-employed,Married,Mortgage,817,0
+44,89435,PhD,Employed,Divorced,Rent,527,0
+20,97014,Master,Unemployed,Divorced,Mortgage,780,0
+45,91437,Bachelor,Unemployed,Divorced,Rent,520,1
+26,84586,PhD,Self-employed,Single,Rent,801,1
+85,59628,Bachelor,Unemployed,Divorced,Own,405,0
+32,46803,Master,Employed,Divorced,Own,319,0
+35,25967,Master,Unemployed,Divorced,Mortgage,828,1
+89,38995,High School,Employed,Divorced,Rent,484,1
+37,60075,Bachelor,Self-employed,Married,Rent,744,0
+69,83899,PhD,Self-employed,Divorced,Rent,662,0
+78,71159,High School,Unemployed,Married,Own,578,1
+85,20953,High School,Employed,Divorced,Rent,376,1
+69,44156,Master,Employed,Married,Mortgage,528,1
+18,81034,Bachelor,Self-employed,Divorced,Own,700,1
+37,57159,Bachelor,Unemployed,Married,Own,655,1
+59,33127,Master,Unemployed,Divorced,Mortgage,711,1
+89,65934,PhD,Unemployed,Married,Mortgage,383,0
+33,72018,High School,Self-employed,Divorced,Rent,420,0
+62,61744,Bachelor,Unemployed,Single,Own,612,0
+60,57027,PhD,Employed,Divorced,Mortgage,844,0
+53,66726,Master,Self-employed,Married,Rent,441,0
+54,47566,PhD,Unemployed,Divorced,Own,336,1
+48,29011,Master,Self-employed,Divorced,Own,601,1
+68,36921,Bachelor,Self-employed,Divorced,Rent,538,0
+30,74259,High School,Employed,Single,Own,411,0
+83,66295,Master,Employed,Divorced,Mortgage,677,1
+39,43496,Master,Employed,Divorced,Rent,512,0
+56,53397,PhD,Employed,Single,Rent,680,0
+75,29821,High School,Self-employed,Divorced,Rent,416,1
+43,71723,Master,Employed,Married,Own,668,0
+35,23900,High School,Unemployed,Single,Own,612,0
+41,97656,PhD,Self-employed,Married,Mortgage,428,0
+19,77432,Bachelor,Unemployed,Divorced,Rent,705,1
+78,55477,PhD,Self-employed,Divorced,Own,581,0
+84,67533,High School,Self-employed,Single,Mortgage,477,1
+89,21125,Bachelor,Employed,Married,Mortgage,780,0
+68,46904,Bachelor,Self-employed,Married,Rent,595,0
+30,90705,PhD,Unemployed,Married,Rent,799,1
+36,23872,Master,Unemployed,Divorced,Own,450,0
+28,54175,High School,Unemployed,Married,Own,562,1
+31,62458,PhD,Employed,Single,Own,457,1
+78,71952,PhD,Self-employed,Divorced,Mortgage,402,1
+79,81685,Master,Employed,Married,Rent,537,0
+30,37486,PhD,Unemployed,Single,Rent,779,0
+27,55250,Master,Unemployed,Single,Own,574,1
+18,70816,Bachelor,Unemployed,Divorced,Own,663,1
+24,79182,Bachelor,Self-employed,Married,Rent,677,0
+46,25696,PhD,Unemployed,Divorced,Rent,428,0
+84,84962,High School,Employed,Married,Own,653,0
+26,20563,Bachelor,Employed,Divorced,Mortgage,319,1
+21,35711,PhD,Self-employed,Divorced,Own,757,0
+83,91254,Bachelor,Self-employed,Single,Own,662,0
+24,77743,Master,Unemployed,Married,Own,534,0
+62,43610,PhD,Self-employed,Divorced,Own,522,1
+94,92674,Bachelor,Employed,Single,Own,425,1
+30,38817,Bachelor,Employed,Married,Own,790,1
+59,58023,High School,Self-employed,Single,Rent,338,0
+69,27071,Bachelor,Employed,Single,Own,814,1
+70,59077,High School,Self-employed,Single,Own,831,0
+32,64224,High School,Self-employed,Single,Mortgage,786,1
+54,24196,PhD,Employed,Married,Rent,485,1
+90,24503,High School,Self-employed,Divorced,Rent,460,0
+61,94688,Master,Self-employed,Single,Mortgage,776,0
+39,69144,Master,Unemployed,Single,Mortgage,746,1
+54,75297,Bachelor,Employed,Married,Rent,790,1
+45,21079,Master,Unemployed,Single,Own,339,0
+75,85636,PhD,Unemployed,Divorced,Mortgage,741,1
+35,87413,High School,Self-employed,Single,Mortgage,432,1
+34,26753,Bachelor,Employed,Single,Rent,795,1
+65,75803,PhD,Self-employed,Single,Own,571,1
+43,68602,PhD,Employed,Single,Mortgage,507,1
+83,89846,PhD,Self-employed,Divorced,Own,429,1
+48,84987,PhD,Unemployed,Single,Mortgage,532,1
+31,64266,Master,Unemployed,Married,Mortgage,615,1
+33,81338,High School,Employed,Married,Rent,784,1
+76,63416,Bachelor,Employed,Single,Rent,387,0
+29,56973,PhD,Self-employed,Single,Own,558,1
+39,28222,PhD,Self-employed,Married,Rent,695,1
+89,35455,High School,Self-employed,Single,Mortgage,643,1
+62,40490,Bachelor,Employed,Divorced,Own,789,1
+88,88865,Bachelor,Unemployed,Married,Rent,805,0
+82,74992,High School,Employed,Single,Own,818,1
+42,98032,PhD,Self-employed,Single,Rent,483,1
+33,33694,High School,Self-employed,Divorced,Rent,515,0
+70,88227,PhD,Unemployed,Married,Rent,408,0
+44,39428,Master,Unemployed,Single,Rent,469,0
+62,32074,PhD,Unemployed,Divorced,Mortgage,557,0
+83,65599,Bachelor,Self-employed,Divorced,Mortgage,840,1
+31,92638,Bachelor,Employed,Married,Rent,838,1
+40,43074,Master,Employed,Single,Mortgage,415,0
+35,54937,High School,Employed,Divorced,Rent,592,0
+78,61977,PhD,Employed,Divorced,Rent,834,1
+46,47856,High School,Unemployed,Married,Rent,713,0
+75,63281,Master,Unemployed,Married,Mortgage,754,0
+81,99650,PhD,Employed,Divorced,Mortgage,475,0
+85,46308,Master,Unemployed,Divorced,Mortgage,494,1
+20,51326,Bachelor,Unemployed,Divorced,Mortgage,380,0
+46,26710,Bachelor,Employed,Single,Mortgage,652,1
+23,54921,Bachelor,Self-employed,Divorced,Rent,360,0
+42,77478,Bachelor,Self-employed,Married,Own,344,1
+69,53086,High School,Employed,Married,Own,354,0
+40,58111,High School,Unemployed,Married,Own,415,0
+51,68030,High School,Employed,Single,Rent,736,0
+41,91851,Master,Employed,Single,Own,383,1
+71,85484,High School,Unemployed,Divorced,Rent,554,1
+22,47964,Bachelor,Employed,Married,Own,778,1
+31,80499,High School,Self-employed,Single,Rent,603,1
+36,36163,Bachelor,Employed,Single,Own,436,0
+93,55399,Master,Self-employed,Married,Mortgage,844,0
+63,36734,PhD,Employed,Single,Mortgage,336,1
+59,57652,Bachelor,Unemployed,Single,Mortgage,798,0
+43,78897,PhD,Self-employed,Divorced,Mortgage,560,0
+48,58414,High School,Employed,Single,Mortgage,848,0
+60,99954,Bachelor,Unemployed,Divorced,Mortgage,347,1
+52,88804,High School,Employed,Single,Own,588,1
+82,56071,Master,Unemployed,Divorced,Rent,410,0
+52,95524,PhD,Employed,Married,Own,458,0
+28,20675,High School,Employed,Divorced,Rent,343,1
+67,49932,Bachelor,Unemployed,Single,Rent,430,1
+38,63459,Master,Self-employed,Married,Own,626,1
+77,84068,Bachelor,Employed,Single,Own,567,0
+63,67279,High School,Self-employed,Divorced,Own,613,0
+57,29829,PhD,Unemployed,Divorced,Rent,473,1
+54,22986,Master,Unemployed,Married,Mortgage,592,1
+91,29474,PhD,Self-employed,Divorced,Rent,347,1
+80,64287,Bachelor,Self-employed,Married,Mortgage,338,0
+91,90885,PhD,Self-employed,Married,Rent,570,0
+36,75365,Master,Employed,Married,Mortgage,769,1
+34,33909,High School,Unemployed,Divorced,Rent,453,0
+29,41560,Bachelor,Employed,Single,Rent,365,1
+31,24192,PhD,Self-employed,Single,Rent,465,1
+47,34681,PhD,Unemployed,Divorced,Mortgage,842,0
+22,96312,High School,Self-employed,Single,Mortgage,727,0
+58,64607,Master,Unemployed,Single,Mortgage,457,1
+56,74879,High School,Employed,Married,Rent,503,1
+48,73348,Bachelor,Unemployed,Single,Own,847,0
+48,77971,Bachelor,Employed,Married,Mortgage,531,1
+38,90920,Master,Employed,Single,Own,349,1
+62,94998,High School,Unemployed,Divorced,Rent,487,1
+70,83165,PhD,Employed,Divorced,Own,499,0
+73,21036,Bachelor,Employed,Married,Rent,656,1
+51,88565,Bachelor,Self-employed,Married,Rent,646,1
+85,75707,Master,Unemployed,Married,Rent,352,1
+46,90310,Bachelor,Self-employed,Married,Rent,489,0
+62,69985,Master,Employed,Single,Mortgage,679,1
+64,64318,Master,Self-employed,Married,Own,579,0
+76,45137,Bachelor,Employed,Divorced,Mortgage,503,1
+78,44137,High School,Unemployed,Married,Own,834,1
+49,35237,Bachelor,Employed,Married,Own,447,0
+67,52622,PhD,Self-employed,Married,Own,310,0
+71,87905,PhD,Employed,Divorced,Rent,371,0
+33,20147,Bachelor,Employed,Married,Rent,565,1
+39,79578,Master,Self-employed,Married,Mortgage,701,0
+46,73466,High School,Unemployed,Divorced,Rent,785,0
+61,59106,PhD,Unemployed,Divorced,Mortgage,643,0
+75,35799,Master,Self-employed,Divorced,Mortgage,611,0
+75,45296,High School,Self-employed,Single,Mortgage,727,1
+82,41378,PhD,Unemployed,Married,Rent,801,0
+30,70757,Master,Self-employed,Married,Own,747,1
+27,37902,Bachelor,Unemployed,Divorced,Own,473,0
+77,75228,High School,Employed,Married,Rent,353,0
+66,98011,Master,Unemployed,Single,Mortgage,804,0
+88,55979,Bachelor,Employed,Married,Rent,359,1
+85,33033,High School,Unemployed,Divorced,Rent,536,1
+72,31143,Master,Self-employed,Single,Own,767,1
+75,57398,Bachelor,Self-employed,Divorced,Mortgage,773,1
+56,66025,Master,Self-employed,Divorced,Rent,800,0
+49,91638,Bachelor,Self-employed,Single,Rent,486,0
+48,21897,Master,Self-employed,Single,Rent,685,1
+35,54701,Bachelor,Self-employed,Single,Mortgage,622,0
+47,74301,High School,Employed,Divorced,Own,383,1
+71,66385,Master,Self-employed,Single,Mortgage,766,1
+48,49506,Bachelor,Unemployed,Divorced,Rent,460,0
+71,63974,PhD,Self-employed,Divorced,Own,671,1
+36,96359,Master,Unemployed,Divorced,Rent,759,0
+54,33492,Bachelor,Employed,Divorced,Rent,444,1
+81,51614,Bachelor,Unemployed,Married,Rent,748,0
+47,38241,PhD,Unemployed,Married,Rent,347,1
+53,68564,Master,Self-employed,Married,Own,691,0
+62,41368,High School,Self-employed,Married,Mortgage,514,1
+84,60076,Bachelor,Employed,Married,Rent,435,1
+24,57250,Bachelor,Unemployed,Divorced,Rent,752,1
+39,32667,PhD,Self-employed,Single,Own,794,0
+74,48806,High School,Unemployed,Single,Rent,648,1
+75,51213,Master,Employed,Married,Mortgage,550,0
+89,38661,PhD,Employed,Married,Mortgage,527,0
+89,29427,PhD,Unemployed,Single,Rent,372,0
+34,48594,High School,Employed,Single,Own,714,0
+24,54947,Master,Employed,Married,Own,524,0
+36,36805,Master,Self-employed,Single,Rent,503,1
+18,86533,Bachelor,Self-employed,Single,Mortgage,345,1
+54,40831,Bachelor,Employed,Married,Rent,507,1
+72,40264,PhD,Employed,Divorced,Mortgage,303,1
+72,56983,High School,Employed,Single,Rent,428,0
+89,34199,Bachelor,Self-employed,Single,Own,467,1
+31,83994,Master,Employed,Divorced,Mortgage,361,1
+56,65452,Master,Employed,Married,Own,729,0
+79,98761,Master,Unemployed,Divorced,Own,768,1
+24,31524,PhD,Unemployed,Married,Mortgage,315,0
+26,55799,Master,Self-employed,Married,Rent,411,1
+19,66793,PhD,Self-employed,Divorced,Rent,453,1
+27,37846,Master,Self-employed,Divorced,Rent,832,0
+89,62818,PhD,Self-employed,Single,Rent,513,0
+34,74817,Bachelor,Employed,Divorced,Own,591,0
+94,31688,Bachelor,Self-employed,Divorced,Own,630,1
+45,28875,High School,Self-employed,Married,Own,554,0
+66,83301,High School,Employed,Married,Mortgage,504,0
+40,27931,Bachelor,Unemployed,Divorced,Mortgage,681,1
+64,21955,High School,Unemployed,Married,Rent,755,1
+34,60016,Master,Unemployed,Divorced,Own,733,0
+91,32945,High School,Employed,Divorced,Mortgage,566,0
+92,50677,High School,Self-employed,Married,Own,529,1
+18,23443,Master,Self-employed,Married,Mortgage,716,0
+54,32610,Bachelor,Self-employed,Married,Own,326,1
+65,82517,High School,Unemployed,Divorced,Mortgage,645,0
+60,47649,High School,Unemployed,Married,Own,339,1
+51,34251,Bachelor,Employed,Married,Rent,723,1
+35,38768,Bachelor,Employed,Married,Rent,566,1
+63,43513,Bachelor,Unemployed,Married,Mortgage,742,1
+70,60869,PhD,Self-employed,Married,Own,849,1
+40,58339,Master,Unemployed,Married,Mortgage,451,0
+88,56203,High School,Unemployed,Divorced,Rent,708,1
+40,98665,High School,Self-employed,Divorced,Rent,562,1
+44,52723,PhD,Employed,Married,Rent,636,1
+53,93891,High School,Unemployed,Single,Own,796,0
+58,68538,Master,Self-employed,Married,Rent,757,0
+87,46101,Bachelor,Unemployed,Divorced,Rent,676,1
+26,40856,High School,Unemployed,Single,Rent,702,1
+37,48447,High School,Unemployed,Married,Mortgage,382,1
+46,71891,Master,Self-employed,Married,Mortgage,675,0
+18,35283,PhD,Self-employed,Married,Mortgage,559,1
+64,61358,PhD,Unemployed,Divorced,Own,516,1
+28,55064,Master,Unemployed,Divorced,Own,590,0
+32,22955,Master,Unemployed,Married,Own,680,0
+60,47614,Master,Unemployed,Married,Own,442,1
+91,69004,Master,Employed,Divorced,Own,561,0
+88,22042,High School,Unemployed,Single,Rent,499,0
+58,69125,High School,Self-employed,Single,Rent,664,0
+92,65422,Bachelor,Unemployed,Divorced,Mortgage,523,1
+92,62978,Master,Self-employed,Divorced,Own,426,1
+19,33821,PhD,Unemployed,Single,Own,444,0
+36,91867,Master,Employed,Single,Rent,753,1
+77,94090,PhD,Unemployed,Married,Rent,730,1
+77,95294,High School,Self-employed,Single,Rent,386,0
+55,58904,High School,Unemployed,Married,Mortgage,826,0
+60,50030,Master,Unemployed,Married,Mortgage,636,1
+61,75292,High School,Unemployed,Married,Mortgage,777,0
+36,71560,High School,Self-employed,Married,Mortgage,457,1
+94,24071,PhD,Self-employed,Single,Own,383,0
+91,95737,Bachelor,Unemployed,Married,Own,584,1
+38,59474,Bachelor,Employed,Divorced,Mortgage,424,0
+94,72328,High School,Self-employed,Divorced,Rent,799,1
+19,59572,High School,Employed,Single,Own,362,0
+84,28301,High School,Self-employed,Divorced,Own,693,1
+38,54295,Bachelor,Self-employed,Single,Own,542,1
+33,95186,Bachelor,Self-employed,Divorced,Mortgage,359,0
+88,27533,High School,Unemployed,Divorced,Mortgage,723,1
+86,91260,High School,Employed,Divorced,Rent,531,0
+68,55802,Bachelor,Unemployed,Divorced,Own,462,0
+91,65940,PhD,Employed,Divorced,Rent,674,0
+52,68150,PhD,Employed,Married,Rent,563,0
+61,53476,PhD,Self-employed,Single,Mortgage,519,1
+74,75865,Bachelor,Self-employed,Single,Mortgage,483,0
+78,57693,Bachelor,Employed,Divorced,Mortgage,524,0
+59,24136,High School,Employed,Married,Mortgage,337,1
+73,97539,High School,Employed,Divorced,Mortgage,496,1
+89,56708,High School,Unemployed,Divorced,Own,519,0
+23,61056,Bachelor,Employed,Single,Mortgage,535,1
+23,74757,Bachelor,Unemployed,Single,Own,843,1
+54,23073,PhD,Employed,Single,Rent,562,0
+62,36920,High School,Self-employed,Divorced,Rent,365,1
+87,28486,Master,Employed,Divorced,Rent,731,1
+80,44082,Master,Employed,Single,Mortgage,588,1
+49,42394,Bachelor,Unemployed,Married,Own,764,1
+47,37370,High School,Employed,Married,Mortgage,322,0
+93,71191,High School,Employed,Single,Own,518,1
+27,36321,Bachelor,Self-employed,Divorced,Own,655,0
+30,52953,PhD,Employed,Married,Mortgage,588,0
+53,30936,Bachelor,Unemployed,Divorced,Mortgage,476,0
+52,24781,Master,Employed,Single,Rent,348,1
+86,91054,PhD,Unemployed,Single,Rent,828,1
+61,39061,Master,Employed,Single,Rent,600,1
+34,69376,Bachelor,Self-employed,Single,Rent,773,1
+86,97971,High School,Unemployed,Divorced,Mortgage,666,1
+68,40332,Master,Unemployed,Married,Own,513,1
+38,23248,Bachelor,Unemployed,Married,Rent,409,0
+18,60266,Bachelor,Self-employed,Divorced,Mortgage,614,0
+83,94938,PhD,Unemployed,Single,Own,719,0
+60,46157,High School,Employed,Divorced,Mortgage,742,1
+93,40350,Bachelor,Self-employed,Married,Mortgage,580,1
+70,83850,PhD,Employed,Married,Mortgage,464,0
+71,93825,Bachelor,Self-employed,Divorced,Own,491,0
+83,96886,Bachelor,Unemployed,Divorced,Rent,330,1
+41,58701,High School,Self-employed,Divorced,Rent,736,1
+74,41150,High School,Employed,Divorced,Own,483,0
+78,87808,Bachelor,Employed,Divorced,Own,764,1
+27,40130,PhD,Unemployed,Single,Mortgage,434,1
+93,42657,PhD,Employed,Single,Mortgage,380,1
+78,44829,Bachelor,Employed,Single,Mortgage,477,1
+88,98013,Bachelor,Self-employed,Single,Own,320,0
+55,25497,PhD,Employed,Single,Own,617,1
+41,38958,High School,Self-employed,Divorced,Mortgage,401,0
+59,61619,Bachelor,Employed,Single,Rent,835,0
+70,36794,Bachelor,Self-employed,Divorced,Own,812,1
+36,86685,High School,Unemployed,Single,Mortgage,544,0
+73,52149,Bachelor,Unemployed,Married,Own,612,1
+72,25533,High School,Employed,Divorced,Rent,628,1
+58,26227,Bachelor,Self-employed,Divorced,Own,842,1
+76,45872,High School,Employed,Divorced,Own,411,1
+18,89700,Master,Self-employed,Divorced,Mortgage,667,1

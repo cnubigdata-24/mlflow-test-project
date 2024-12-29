@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow-project/mlflow_test_project/mlruns/625869569736852214/e0df4a6c02d84220a42055553345a33b/artifacts
+end_time: 1735143240378
+entry_point_name: ''
+experiment_id: '625869569736852214'
+lifecycle_stage: active
+run_id: e0df4a6c02d84220a42055553345a33b
+run_name: nimble-penguin-954
+run_uuid: e0df4a6c02d84220a42055553345a33b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735143238444
+status: 4
+tags: []
+user_id: User

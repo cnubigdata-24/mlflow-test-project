@@ -1,0 +1,10 @@
+name: example_project
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - pip
+  - pip:
+      - mlflow
+      - scikit-learn
+      - pandas

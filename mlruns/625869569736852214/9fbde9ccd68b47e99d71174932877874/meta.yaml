@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow-project/mlflow_test_project/mlruns/625869569736852214/9fbde9ccd68b47e99d71174932877874/artifacts
+end_time: 1735143850805
+entry_point_name: ''
+experiment_id: '625869569736852214'
+lifecycle_stage: active
+run_id: 9fbde9ccd68b47e99d71174932877874
+run_name: likeable-shark-150
+run_uuid: 9fbde9ccd68b47e99d71174932877874
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735143845393
+status: 3
+tags: []
+user_id: User

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow-project/mlflow_test_project/mlruns/625869569736852214/da6f97d5bb91413994220b52ad269a55/artifacts
+end_time: 1735142694758
+entry_point_name: ''
+experiment_id: '625869569736852214'
+lifecycle_stage: active
+run_id: da6f97d5bb91413994220b52ad269a55
+run_name: able-dog-210
+run_uuid: da6f97d5bb91413994220b52ad269a55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735142690121
+status: 3
+tags: []
+user_id: User

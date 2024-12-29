@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow-project/mlflow_test_project/mlruns/625869569736852214/1e114eec3dd248a187bcf759c48dc9d1/artifacts
+end_time: 1735142322080
+entry_point_name: ''
+experiment_id: '625869569736852214'
+lifecycle_stage: active
+run_id: 1e114eec3dd248a187bcf759c48dc9d1
+run_name: skillful-jay-45
+run_uuid: 1e114eec3dd248a187bcf759c48dc9d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735142310658
+status: 3
+tags: []
+user_id: User

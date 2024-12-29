@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow-project/mlflow_test_project/mlruns/625869569736852214/e60c16ff8cc84b0bb82738240f81e192/artifacts
+end_time: 1735143215962
+entry_point_name: ''
+experiment_id: '625869569736852214'
+lifecycle_stage: active
+run_id: e60c16ff8cc84b0bb82738240f81e192
+run_name: orderly-roo-989
+run_uuid: e60c16ff8cc84b0bb82738240f81e192
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735143214035
+status: 4
+tags: []
+user_id: User

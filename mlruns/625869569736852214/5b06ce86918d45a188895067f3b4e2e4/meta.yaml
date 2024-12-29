@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow-project/mlflow_test_project/mlruns/625869569736852214/5b06ce86918d45a188895067f3b4e2e4/artifacts
+end_time: 1735143150097
+entry_point_name: ''
+experiment_id: '625869569736852214'
+lifecycle_stage: active
+run_id: 5b06ce86918d45a188895067f3b4e2e4
+run_name: crawling-tern-591
+run_uuid: 5b06ce86918d45a188895067f3b4e2e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735143145410
+status: 3
+tags: []
+user_id: User

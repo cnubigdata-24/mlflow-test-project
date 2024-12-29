@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow-project/mlflow_test_project/mlruns/625869569736852214/591aed0efbb44e3496295cb9e430d942/artifacts
+end_time: 1735143261655
+entry_point_name: ''
+experiment_id: '625869569736852214'
+lifecycle_stage: active
+run_id: 591aed0efbb44e3496295cb9e430d942
+run_name: gifted-pig-27
+run_uuid: 591aed0efbb44e3496295cb9e430d942
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735143259697
+status: 4
+tags: []
+user_id: User

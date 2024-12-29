@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow-project/mlflow_test_project/mlruns/625869569736852214/3faf570239074f4ab3f02c5a5ef76338/artifacts
+end_time: 1735143283458
+entry_point_name: ''
+experiment_id: '625869569736852214'
+lifecycle_stage: active
+run_id: 3faf570239074f4ab3f02c5a5ef76338
+run_name: colorful-donkey-864
+run_uuid: 3faf570239074f4ab3f02c5a5ef76338
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735143278924
+status: 3
+tags: []
+user_id: User
