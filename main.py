@@ -78,4 +78,4 @@ with mlflow.start_run():
     mlflow.sklearn.log_model(model, "model")
 
 
-mlflow.log_artifact("path/to/file")
+mlflow.log_artifact("data/input.csv")
