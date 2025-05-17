@@ -1,7 +1,7 @@
-name: example_project  # Project Name
+name: example_project
 
-conda_env: conda.yaml  # Dependency and environment configuration file
-
-entry_points:          # Defines executable commands
+entry_points:
   main:
-    command: "python main.py --data_path data/input.csv"  # Command and arguments
+    parameters:
+      data_path: { type: string, default: 'data/input.csv' }
+    command: 'python main.py --data_path {data_path}'
