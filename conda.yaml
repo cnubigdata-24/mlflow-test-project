@@ -1,10 +1,12 @@
-name: example_project
+name: mlflow-example-env
 channels:
   - defaults
 dependencies:
-  - python=3.8
+  - python=3.9
   - pip
   - pip:
       - mlflow
       - scikit-learn
       - pandas
+      - numpy
+      - pyyaml
